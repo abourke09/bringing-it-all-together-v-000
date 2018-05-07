@@ -13,4 +13,4 @@ class Dog
   end
 
 
-extend
+end
